@@ -1,2 +1,0 @@
-mov r1,#0x00
-orr r2,r1,#0xAB
