@@ -6,8 +6,11 @@ Updated emulator source written by me.
 Contributors:
 
 Joseph Katsioloudes
+
 Pavlos Kosmetatos
+
 Ayman Moussa
+
 Nikhita Vasani
 
 (Assembler source is lost forever)
